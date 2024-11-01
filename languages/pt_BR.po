@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tw-post-views\n"
+"POT-Creation-Date: 2015-07-26 05:07-0300\n"
+"PO-Revision-Date: 2015-07-26 05:09-0300\n"
+"Last-Translator: \n"
+"Language-Team: Trinityweb <contato@trinityweb.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/shortcode.php:38
+msgid "No published post!"
+msgstr "Nenhum post publicado!"
+
+#: includes/widgets.php:12
+msgid "TW Most Views"
+msgstr "TW Mais Vistos"
+
+#: includes/widgets.php:15
+msgid "Widget that will show the posts most viewed"
+msgstr "Widget mostra posts mais vistos"
+
+#: includes/widgets.php:72
+msgid "Title"
+msgstr "Título"
+
+#: includes/widgets.php:84
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/widgets.php:87
+msgid "Post Type:"
+msgstr ""
+
+#: includes/widgets.php:90
+msgid "Number Views:"
+msgstr ""
+
+#: includes/widgets.php:93
+msgid "Order:"
+msgstr "Ordem:"
+
+#: includes/widgets.php:96
+msgid "Thumbnail Size:"
+msgstr ""
